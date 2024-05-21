@@ -54,4 +54,8 @@ cover/
 
 # Workbench Project Layout
 data/scratch/*
+data/embeddings/*
 !data/scratch/.gitkeep
+
+# Models
+models/*
